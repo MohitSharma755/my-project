@@ -1,0 +1,59 @@
+ [
+    {
+        "name":"The witcher",
+        "id":"the-witcher",
+        "img_url":"../images/download.jpeg",
+        "rating":"8.2",
+        "description":"The witcher",
+        "cast":" Mohit, Mayank ,Rohit",
+        "genre":"Adventure",
+        "watch_url":"https://www.netflix.com/in-hi/title/80189685"
+    },
+    {
+        "name":"The 100",
+        "id":"the-100",
+        "img_url":"../images/100.jpeg",
+        "rating":"5.5",
+        "description":"The witcher",
+        "cast":"Tom, SUnder Pichai",
+        "genre":"Adventure",
+        "watch_url":"https://www.warnerbros.com/tv/100"
+    }, {
+        "name":"The witcher",
+        "id":"the-witcher",
+        "img_url":"../images/download.jpeg",
+        "rating":"8.2",
+        "description":"The witcher",
+        "cast":" Mohit, Mayank ,Rohit",
+        "genre":"Adventure",
+        "watch_url":"https://www.netflix.com/in-hi/title/80189685"
+    },{
+        "name":"Money Heist",
+        "img_url":"../images/money.jpeg",
+        "rating":"8.9",
+        "description":"money",
+        "cast":"Professor, tokyo ,Rio",
+        "genre":"Adventure",
+        "watch_url":"https://www.netflix.com/in-hi/title/80189685"
+    },
+    {
+        "name":"Squad Game",
+        "id":"game",
+        "img_url":"../images/squad.jpeg",
+        "rating":"5.4",
+        "description":"squad",
+        "cast":"The Salesman,Juang",
+        "genre":"Adventure",
+        "watch_url":"https://www.warnerbros.com/tv/100"
+    }, {
+        "name":"Stranger Things",
+        "id":"stranger",
+        "img_url":"../images/starnger.jpeg",
+        "rating":"9.2",
+        "description":"The stranger",
+        "cast":" mili boby, micke wheller ,eleven",
+        "genre":"Adventure",
+        "watch_url":"https://www.netflix.com/in-hi/title/80189685"
+    }
+  
+ ]
